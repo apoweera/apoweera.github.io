@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://apoweera.github.io/YHc/sitemap_index.txt
+Sitemap: https://apoweera.github.io/cNh/sitemap_index.txt
+Sitemap: https://apoweera.github.io/dDc/sitemap_index.txt
+Sitemap: https://apoweera.github.io/kWL/sitemap_index.txt
